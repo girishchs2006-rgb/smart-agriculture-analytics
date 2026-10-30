@@ -1,0 +1,6 @@
+Topic,Observation
+Dataset inspection,Original and selected table columns were inspected.
+Geographic fields,"No explicit latitude, longitude, district, or state fields were found in the inspected schemas."
+field_id,The field_id column is an identifier; geographic meaning has not been established.
+Decision,Geographic mapping and location-based comparisons are not applicable with the currently verified fields.
+Limitation,Geographic analysis may be reconsidered if genuine location data becomes available.

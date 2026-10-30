@@ -1,0 +1,4 @@
+kmeans_cluster,row_count,dominant_crop_label,dominant_label_count,purity
+0,867,chickpea,100,0.11534025374855825
+1,1133,rice,100,0.088261253309797
+2,200,grapes,100,0.5

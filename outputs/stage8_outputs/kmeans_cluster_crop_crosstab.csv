@@ -1,0 +1,5 @@
+kmeans_cluster,apple,banana,blackgram,chickpea,coconut,coffee,cotton,grapes,jute,kidneybeans,lentil,maize,mango,mothbeans,mungbean,muskmelon,orange,papaya,pigeonpeas,pomegranate,rice,watermelon,All
+0,0,0,100,100,0,0,0,0,0,100,100,59,98,100,97,0,18,1,94,0,0,0,867
+1,0,100,0,0,100,100,100,0,100,0,0,41,2,0,3,100,82,99,6,100,100,100,1133
+2,100,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200
+All,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,2200

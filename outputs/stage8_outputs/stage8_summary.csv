@@ -1,0 +1,9 @@
+item,result
+Dataset,crop_recommendation_selected
+Rows,2200
+Features used for clustering,12
+K-Means cluster count,3
+DBSCAN cluster count excluding noise,8
+DBSCAN noise points,1733
+K-Means silhouette score,0.2752
+DBSCAN silhouette score excluding noise,0.6544

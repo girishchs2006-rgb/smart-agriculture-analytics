@@ -1,0 +1,2 @@
+Selected_Model,Mean_CV_MAE,Mean_CV_RMSE,Mean_CV_R2,Selection_Basis
+Dummy Regressor,378.89202072,436.5173644188843,-0.00043853151974992954,Highest mean 5-fold CV R2

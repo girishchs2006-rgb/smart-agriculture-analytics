@@ -1,0 +1,3 @@
+Task,Best Model,Primary Metric,Validation Strategy
+SF24 Classification,Random Forest,Weighted F1,5-Fold Stratified CV + 20% Holdout
+AgriYield Regression,Linear Regression,R²,5-Fold KFold CV

@@ -1,0 +1,4 @@
+Model,Mean_Residual,Underpredicted_Observations,Overpredicted_Observations,Exact_Predictions,Mean_Absolute_Error
+Dummy Regressor,8.149072527885437e-14,5041,4959,0,378.89202072
+Tuned Random Forest,-0.23919009903589614,5049,4951,0,379.8034729136584
+Tuned Gradient Boosting,0.14282602120540505,5044,4956,0,378.9966968309318

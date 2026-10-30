@@ -1,0 +1,11 @@
+Audit Item,Result
+Crop training rows,1760
+Crop holdout rows,440
+Yield training rows,8000
+Yield holdout rows,2000
+Crop best model,Random Forest
+Yield best model,Gradient Boosting
+Crop CV completed,Yes
+Yield CV completed,Yes
+Preprocessing inside pipeline,Yes
+Feature selection inside pipeline,No - selected tables already supplied
